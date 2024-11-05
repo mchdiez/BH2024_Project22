@@ -1,0 +1,2 @@
+(()=>{var i;function o(){A.init.then(()=>{(i=A.aladin("#aladin-lite-div",{showCooGridControl:!0})).displayFITS(fileUrl),i.showCooGrid(!0)})}function n(){t(appRoot+aladinLiteScriptAlternativeLocation)}function t(i,n){let t=document.createElement("script");t.onload=o,n&&(t.onerror=n),document.head.appendChild(t),t.src=i}t(aladinLiteCDNUrl,function(){t(appRoot+aladinLiteScriptLocation,n)})})();
+//# sourceMappingURL=script.js.map
