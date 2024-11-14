@@ -1,0 +1,9 @@
+#The path will vary deppending of your development instance!
+- include: "/Users/mariachaverodiez/Desktop/LocalGalaxy/galaxy/lib/galaxy/files/templates/examples/generic_ssh.yml"
+- include: "/Users/mariachaverodiez/Desktop/LocalGalaxy/galaxy/lib/galaxy/files/templates/examples/ega_outbox.yml"
+- include: "/Users/mariachaverodiez/Desktop/LocalGalaxy/galaxy/lib/galaxy/files/templates/examples/production_azure.yml"
+- include: "/Users/mariachaverodiez/Desktop/LocalGalaxy/galaxy/lib/galaxy/files/templates/examples/production_ftp.yml"
+- include: "/Users/mariachaverodiez/Desktop/LocalGalaxy/galaxy/lib/galaxy/files/templates/examples/production_s3fs.yml"
+- include: "/Users/mariachaverodiez/Desktop/LocalGalaxy/galaxy/lib/galaxy/files/templates/examples/production_aws_private_bucket.yml"
+- include: "/Users/mariachaverodiez/Desktop/LocalGalaxy/galaxy/lib/galaxy/files/templates/examples/production_aws_public_bucket.yml"
+- include: "/Users/mariachaverodiez/Desktop/LocalGalaxy/galaxy/lib/galaxy/files/templates/examples/production_webdav.yml"
