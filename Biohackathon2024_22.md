@@ -629,7 +629,7 @@ Now, your new template ega_outbox.yml should look like this:
 Add this file to the config/file_source_templates.yml so Galaxy can get this configuration.
 ```
 #The path will vary depending of your development instance!
-  - include: ".../galaxy/lib/galaxy/files/templates/examples/production_ftp.yml"
+  - include: ".../galaxy/lib/galaxy/files/templates/examples/ega_outbox.yml"
 ```
 As before, go to **Preferences -> Manage your Remote File Sources"** but this time create a EGA Outbox with Decryption. You will need your EGA username and your Crypt4gh private key.
 
